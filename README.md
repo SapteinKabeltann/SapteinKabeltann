@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SapteinKabeltann Aka Alex
-- 👀 I’m interested in HAM radio, Motorsport, Coding and Data
-- 🌱 I’m currently studying backend technologies and Ham Radio
+- 👀 I’m interested in Motorsport, Coding and Data
+- 🌱 I’m currently studying backend technologies
 - 💞️ I’m looking to collaborate on projects that helps people
 - 📫 How to reach me : email: Alex@tornoee.com
 - 😄 Pronouns: HE/HIM
