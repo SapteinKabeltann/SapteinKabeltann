@@ -2,7 +2,7 @@
 - 👀 I’m interested in Motorsport, Coding and Data
 - 🌱 I’m currently studying backend technologies
 - 💞️ I’m looking to collaborate on projects that helps people
-- 📫 How to reach me : email: Alex@tornoee.com
+- 📫 How to reach me : email: alex@tornoee.com
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: I'm addicted to chocolate milk, but I'm working on it..
 
